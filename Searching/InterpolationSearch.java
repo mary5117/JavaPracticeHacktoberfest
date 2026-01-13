@@ -1,5 +1,4 @@
 public class InterpolationSearch {
-
     /**
      * Performs Interpolation Search on a sorted array.
      *
